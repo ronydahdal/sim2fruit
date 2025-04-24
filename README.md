@@ -25,4 +25,7 @@ ros2 run sim2fruit_perception dummy_policy_node
 ```
 
 To convert PCD into a mesh for Gazebo (for plant models):
+```bash
 python3 pcd_conversion.py
+```
+
