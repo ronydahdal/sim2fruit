@@ -1,0 +1,4 @@
+source;share/sim2fruit_description/local_setup.bash
+source;share/sim2fruit_description/local_setup.dsv
+source;share/sim2fruit_description/local_setup.sh
+source;share/sim2fruit_description/local_setup.zsh

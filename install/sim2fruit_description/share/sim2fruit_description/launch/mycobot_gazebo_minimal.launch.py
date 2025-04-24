@@ -1,0 +1,1 @@
+/home/ronyfaz/sim2fruit_ws/src/sim2fruit_description/launch/mycobot_gazebo_minimal.launch.py

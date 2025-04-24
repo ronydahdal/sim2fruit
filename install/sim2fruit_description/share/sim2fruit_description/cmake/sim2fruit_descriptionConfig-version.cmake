@@ -1,0 +1,1 @@
+/home/ronyfaz/sim2fruit_ws/build/sim2fruit_description/ament_cmake_core/sim2fruit_descriptionConfig-version.cmake

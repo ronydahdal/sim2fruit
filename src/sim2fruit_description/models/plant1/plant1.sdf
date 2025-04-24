@@ -1,0 +1,12 @@
+<sdf version="1.6">
+  <model name="plant1">
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <mesh><uri>model://plant1/meshes/plant1.dae</uri></mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>

@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating sim2fruit_perception.egg-info
+writing sim2fruit_perception.egg-info/PKG-INFO
+writing dependency_links to sim2fruit_perception.egg-info/dependency_links.txt
+writing entry points to sim2fruit_perception.egg-info/entry_points.txt
+writing requirements to sim2fruit_perception.egg-info/requires.txt
+writing top-level names to sim2fruit_perception.egg-info/top_level.txt
+writing manifest file 'sim2fruit_perception.egg-info/SOURCES.txt'
+reading manifest file 'sim2fruit_perception.egg-info/SOURCES.txt'
+writing manifest file 'sim2fruit_perception.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ronyfaz/sim2fruit_ws/install/sim2fruit_perception/lib/python3.10/site-packages/sim2fruit-perception.egg-link (link to .)
+Installing dummy_policy_node script to /home/ronyfaz/sim2fruit_ws/install/sim2fruit_perception/lib/sim2fruit_perception
+Installing pointnet_node script to /home/ronyfaz/sim2fruit_ws/install/sim2fruit_perception/lib/sim2fruit_perception
+
+Installed /home/ronyfaz/sim2fruit_ws/build/sim2fruit_perception
+running symlink_data
+creating /home/ronyfaz/sim2fruit_ws/install/sim2fruit_perception/share/ament_index
+creating /home/ronyfaz/sim2fruit_ws/install/sim2fruit_perception/share/ament_index/resource_index
+creating /home/ronyfaz/sim2fruit_ws/install/sim2fruit_perception/share/ament_index/resource_index/packages
+symbolically linking /home/ronyfaz/sim2fruit_ws/build/sim2fruit_perception/resource/sim2fruit_perception -> /home/ronyfaz/sim2fruit_ws/install/sim2fruit_perception/share/ament_index/resource_index/packages
+symbolically linking /home/ronyfaz/sim2fruit_ws/build/sim2fruit_perception/package.xml -> /home/ronyfaz/sim2fruit_ws/install/sim2fruit_perception/share/sim2fruit_perception

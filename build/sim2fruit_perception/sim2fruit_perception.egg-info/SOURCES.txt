@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+resource/sim2fruit_perception
+sim2fruit_perception/__init__.py
+sim2fruit_perception/dummy_policy_node.py
+sim2fruit_perception/pointnet_node.py
+sim2fruit_perception.egg-info/PKG-INFO
+sim2fruit_perception.egg-info/SOURCES.txt
+sim2fruit_perception.egg-info/dependency_links.txt
+sim2fruit_perception.egg-info/entry_points.txt
+sim2fruit_perception.egg-info/requires.txt
+sim2fruit_perception.egg-info/top_level.txt
+sim2fruit_perception.egg-info/zip-safe
