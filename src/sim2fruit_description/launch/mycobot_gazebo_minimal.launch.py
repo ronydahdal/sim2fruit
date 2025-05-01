@@ -67,16 +67,16 @@ def generate_launch_description():
     #],
     #output='screen'
 #)
-#    spawn_sun_cmd = Node(
-#        package='gazebo_ros',
-#        executable='spawn_entity.py',
-#        arguments=[
-#            '-file', '/usr/share/gazebo-11/models/sun/model.sdf',
-#            '-entity', 'test_box',
-#            '-x', '0.5', '-y', '0.0', '-z', '1.0'
-#        ],
-#        output='screen'
-#    )
+    spawn_sun_cmd = Node(
+        package='gazebo_ros',
+        executable='spawn_entity.py',
+        arguments=[
+            '-file', '/usr/share/gazebo-11/models/sun/model.sdf',
+            '-entity', 'test_box',
+            '-x', '0.5', '-y', '0.0', '-z', '1.0'
+        ],
+        output='screen'
+    )
     
 
     return LaunchDescription([
